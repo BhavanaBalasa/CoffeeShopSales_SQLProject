@@ -15,7 +15,7 @@
 - 	product_type: More specific type of product within the category (e.g., Gourmet brewed coffee, Brewed Chai tea).
 - 	product_detail: Detailed description of the product (e.g., Ethiopia Rg, Spicy Eye Opener Chai Lg).
 ## ER Diagram
-   ![https://github.com/BhavanaBalasa/CoffeeShopSales_SQLProject/blob/main/cofeeshopsales.png]
+   ![](https://github.com/BhavanaBalasa/CoffeeShopSales_SQLProject/blob/main/cofeeshopsales.png)
 ## Initial Observations:
 -	Transactions Data: Each entry logs the sale of a product, indicating the volume sold (quantity) and the timing (date and time).
 -	Product Varieties: Products are diverse, ranging from different types of coffee and tea to drinking chocolate, with specific details provided about each type.
